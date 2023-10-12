@@ -1,1 +1,1 @@
-# godot_sample_project
+# godot-sample-project
